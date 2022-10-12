@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="LENOVO &lt;LENOVO@192.168.0.110&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="LENOVO &lt;LENOVO@192.168.0.110&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\LENOVO\git\repository2\.git">
+			<item value="false"/>
+			<item value="LENOVO &lt;LENOVO@192.168.0.110&gt;"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;arkadaş sayılar"/>
+			<item value="LENOVO &lt;LENOVO@192.168.0.110&gt;"/>
+			<item value="efc52ed4b69f0a6954912dac766f9bdae6fa13de"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

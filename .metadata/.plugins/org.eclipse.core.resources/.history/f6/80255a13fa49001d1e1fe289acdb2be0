@@ -1,0 +1,15 @@
+package stringsDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String mesaj = "bugün hava çok güzel";
+		
+		System.out.println(mesaj);
+
+		System.out.println("eleman sayısı : " + mesaj.length());
+		
+		System.out.println("5. eleman : " + mesaj.charAt(4));
+	}
+
+}

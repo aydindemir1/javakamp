@@ -1,0 +1,11 @@
+package mukemmelSayi;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// 6 => 1 + 2 + 3 = 6
+		// 28 => 1 + 2 + 4 + 7 + 14
+
+	}
+
+}
