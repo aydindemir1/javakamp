@@ -22,7 +22,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 
-		Course course1 = new Course(1, "C# - ANGULAR", 0);
+		Course course1 = new Course(1, "JAVA", 0);
 		Logger[] loggers = {  new DatabaseLogger()};
 		List<Course> courses = new ArrayList<>();
 		CourseManager courseManager = new CourseManager(new HibernateCourseDao(), loggers, courses);
