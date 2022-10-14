@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="classess.CustomerManager"/>
-    <fullyQualifiedTypeName name="reCapDemoClasses.DortIslem"/>
-    <fullyQualifiedTypeName name="classessWithAttiributes.Product"/>
-    <fullyQualifiedTypeName name="classessWithAttiributes.ProductManager"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="methodOverloading.DortIslem"/>
-    <fullyQualifiedTypeName name="inheritance.Customer"/>
     <fullyQualifiedTypeName name="inheritance.Employee"/>
     <fullyQualifiedTypeName name="inheritance.PersonManager"/>
     <fullyQualifiedTypeName name="inheritance.EmployeeManager"/>
@@ -47,4 +40,24 @@
     <fullyQualifiedTypeName name="staticDemo.DatabaseHelper"/>
     <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Crud"/>
     <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Connection"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="entities.Course"/>
+    <fullyQualifiedTypeName name="dataAccess.JdbcCourseDao"/>
+    <fullyQualifiedTypeName name="business.CourseManager"/>
+    <fullyQualifiedTypeName name="business.CategoryManager"/>
+    <fullyQualifiedTypeName name="dataAccess.HibernateCategoryDao"/>
+    <fullyQualifiedTypeName name="dataAccess.JdbcInstructorDao"/>
+    <fullyQualifiedTypeName name="business.InstructorManager"/>
+    <fullyQualifiedTypeName name="dataAccess.CourseDao"/>
+    <fullyQualifiedTypeName name="dataAccess.CategoryDao"/>
+    <fullyQualifiedTypeName name="entities.Category"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="dataAccess.InstructorDao"/>
+    <fullyQualifiedTypeName name="coreLogging.Logger"/>
+    <fullyQualifiedTypeName name="entities.Instructor"/>
+    <fullyQualifiedTypeName name="coreLogging.MailLogger"/>
+    <fullyQualifiedTypeName name="coreLogging.FileLogger"/>
+    <fullyQualifiedTypeName name="coreLogging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="dataAccess.HibernateCourseDao"/>
 </qualifiedTypeNameHistroy>
