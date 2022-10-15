@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="inheritance.Employee"/>
-    <fullyQualifiedTypeName name="inheritance.PersonManager"/>
-    <fullyQualifiedTypeName name="inheritance.EmployeeManager"/>
-    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.KrediUI"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.OgretmenKrediManager"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.TarimKrediManager"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.AskerKrediManager"/>
-    <fullyQualifiedTypeName name="polymorphismDemo.EmailLogger"/>
-    <fullyQualifiedTypeName name="polymorphismDemo.ConsoleLogger"/>
-    <fullyQualifiedTypeName name="polymorphismDemo.BaseLogger"/>
-    <fullyQualifiedTypeName name="polymorphismDemo.CustomerManager"/>
-    <fullyQualifiedTypeName name="polymorphismDemo.DatabaseLogger"/>
-    <fullyQualifiedTypeName name="polymorphismDemo.FileLogger"/>
     <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
     <fullyQualifiedTypeName name="overriding.TarimKrediManager"/>
     <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
@@ -60,4 +45,19 @@
     <fullyQualifiedTypeName name="coreLogging.FileLogger"/>
     <fullyQualifiedTypeName name="coreLogging.DatabaseLogger"/>
     <fullyQualifiedTypeName name="dataAccess.HibernateCourseDao"/>
+    <fullyQualifiedTypeName name="GamerService"/>
+    <fullyQualifiedTypeName name="GamerManager"/>
+    <fullyQualifiedTypeName name="UserValidationManager"/>
+    <fullyQualifiedTypeName name="Gamer"/>
+    <fullyQualifiedTypeName name="UserValidationService"/>
+    <fullyQualifiedTypeName name="NewEStateUserValidationManager"/>
+    <fullyQualifiedTypeName name="OfferService"/>
+    <fullyQualifiedTypeName name="OfferManager"/>
+    <fullyQualifiedTypeName name="Offer"/>
+    <fullyQualifiedTypeName name="services.GamerService"/>
+    <fullyQualifiedTypeName name="business.GamerManager"/>
+    <fullyQualifiedTypeName name="services.UserValidationService"/>
+    <fullyQualifiedTypeName name="business.OfferManager"/>
+    <fullyQualifiedTypeName name="entities.Offer"/>
+    <fullyQualifiedTypeName name="entities.Gamer"/>
 </qualifiedTypeNameHistroy>
