@@ -1,0 +1,16 @@
+package interfaces;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Logger[] loggers = {new  FileLogger(), new EmailLogger()};
+		
+		CustomerManager customerManager = new CustomerManager(Logger[] loggers);
+		Customer engin = new Customer(1, "engin", "demiroğ");
+		customerManager.add(engin);
+
+	}
+
+}

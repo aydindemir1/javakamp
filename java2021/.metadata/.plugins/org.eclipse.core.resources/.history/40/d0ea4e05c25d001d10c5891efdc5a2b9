@@ -1,0 +1,8 @@
+package kodlamaio.northwind.business.concretes;
+
+import kodlamaio.northwind.business.abstracts.ProductService;
+
+public class ProductManager implements ProductService {
+
+	
+}

@@ -1,0 +1,16 @@
+package interfaces;
+
+public class CustomerManager {
+
+	public void add(Customer customer) {
+		System.out.println("müşteri eklendi : " + customer.getFirstName());
+	DatabaseLogger databaseLogger = new DatabaseLogger();
+	databaseLogger.log(customer.getFirstName() + "veri tabanına loglandı");
+	}
+	
+	public void delete(Customer customer) {
+		System.out.println("müşteri silindi : " + customer.getFirstName());
+		DatabaseLogger databaseLogger = new DatabaseLogger();
+		databaseLogger.log(customer.getFirstName() + "veri tabanına loglandı");
+	}
+}

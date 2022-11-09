@@ -1,0 +1,14 @@
+package interfaces;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		CustomerManager customerManager = new CustomerManager(new DatabaseLogger());
+		Customer engin = new Customer(1, "engin", "demiroğ");
+		customerManager.add(engin);
+
+	}
+
+}

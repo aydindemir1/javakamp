@@ -1,0 +1,24 @@
+package kodlamaio.northwind.entities.concretes;
+
+import lombok.Data;
+
+@Data
+public class Product {
+
+	private int id;
+	private int categoryId;
+	private String productName;
+	private double unitPrice;
+	private short unitInStock;
+	private String quantityPerUnit;
+	
+	public Product(int id, int categoryId, String productName, double unitPrice, short unitInStock,
+			String quantityPerUnit) {
+		this.id = id;
+		this.categoryId = categoryId;
+		this.productName = productName;
+		this.unitPrice = unitPrice;
+		this.unitInStock = unitInStock;
+		this.quantityPerUnit = quantityPerUnit;
+	}
+}

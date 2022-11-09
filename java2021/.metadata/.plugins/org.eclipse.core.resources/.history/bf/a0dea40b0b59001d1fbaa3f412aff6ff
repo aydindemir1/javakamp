@@ -1,0 +1,30 @@
+package oopIntro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Product product1 = new Product(); // referans oluşturma, instance 
+		product1.id = 1;
+		product1.name = "lenovo v14";
+		product1.unitePrice = 15000;
+		product1.detail = "16 gb ram";
+		
+		Product product2 = new Product();  
+		product1.id = 2;
+		product1.name = "lenovo v15";
+		product1.unitePrice = 16000;
+		product1.detail = "32 gb ram";
+		
+		Product product3 = new Product();  
+		product1.id = 3;
+		product1.name = "hp 5";
+		product1.unitePrice = 10000;
+		product1.detail = "8 gb ram";
+		
+		Product[] products = {product1, product2, product3};
+		
+		System.out.println(products.length);
+	}
+
+}

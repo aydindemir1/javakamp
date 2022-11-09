@@ -1,0 +1,6 @@
+package nLayeredDemo.core;
+
+public class JLoggerManagerAdapter implements LoggerService {
+
+	
+}

@@ -1,0 +1,12 @@
+package interfaces;
+
+public class CustomerManager {
+
+	public void add(Customer customer) {
+		
+	}
+	
+	public void delete(Customer customer) {
+		
+	}
+}
