@@ -1,0 +1,25 @@
+package kodlama.io.rentACar.entities.concretes;
+
+import javax.persistence.Table;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
+@Table(name="brands")
+@Getter
+@Setter
+@AllArgsConstructor
+public class Brand {
+
+	private int id;
+	private String name;
+	
+
+	
+	
+	
+	
+	
+}
